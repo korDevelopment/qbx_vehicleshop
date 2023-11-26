@@ -1,4 +1,3 @@
---UPDATED 11/26/2023
 return {
     useTarget = false,
     debugPoly = false,
